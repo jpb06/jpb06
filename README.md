@@ -7,8 +7,8 @@ Did a lot of .Net, now mainly working with react/nodejs. Check my cool stuffs!
 ## :zap: Some silly stats
 
 <div align="center" style="display: inline-block;vertical-align: text-top;">
-<img src="https://github-readme-stats.vercel.app/api?username=jpb06&count_private=true&theme=merko&hide=contribs" height="164" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpb06&theme=merko&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=jpb06&count_private=true&theme=tokyonight&hide=contribs" height="164" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpb06&theme=tokyonight&layout=compact" />
 </div>
 
 ## :zap: What I mainly work with
