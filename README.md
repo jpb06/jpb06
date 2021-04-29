@@ -1,6 +1,6 @@
 # Hello hello <img src="./icons/Hi.gif" width="30px">
 
-Your regular neurotypical fullstack developer. <img src="./icons/seenoevil.png" height="20" />
+Your regular neurotypical fullstack developer. :see_no_evil:
 Leaning towards frontend, actually. Sort of. I also love testing.
 
 Did a lot of .Net; now mainly working with react/nodejs. Check my cool stuffs! :100:
