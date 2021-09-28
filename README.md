@@ -5,13 +5,6 @@ Leaning towards frontend, actually. Sort of. I also love testing.
 
 Did a lot of .Net; now mainly working with react/nodejs. Check my cool stuffs! :100:
 
-## :zap: Some silly stats
-
-<div align="center" style="display: inline-block;vertical-align: text-top;">
-<img src="https://github-readme-stats.vercel.app/api?username=jpb06&count_private=true&theme=tokyonight&hide=contribs" height="164" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpb06&theme=tokyonight&layout=compact" />
-</div>
-
 ## :zap: What I mainly work with
 
 <p align="left">
@@ -60,3 +53,18 @@ Did a lot of .Net; now mainly working with react/nodejs. Check my cool stuffs! :
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vstudio" width="60" height="60"/></a>
 
 </p>
+
+## :zap: Stats
+
+<div style="	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	align-content: stretch;">
+  <img src="./coding-habits.svg" style="width:800px;" />
+  <img src="./pull-requests.svg" style="width:800px;" />
+  <img src="./metrics-achievements.svg" style="width:800px;" />
+  <img src="./reactions.svg" style="width:800px;" />
+  <img src="./metrics-commits-calendar.svg" style="width:800px;" />
+</div>
