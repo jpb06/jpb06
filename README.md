@@ -5,7 +5,7 @@ Leaning towards frontend, actually. Sort of. I also love testing.
 
 Did a lot of .Net; now mainly working with react/nodejs. Check my cool stuffs! :100:
 
-## :zap: What I mainly work with
+<h1 align="center" style="color:#0c8694;text-shadow: black 0.1em 0.1em 0.2em;">What I mainly work with</h1>
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/></a>
@@ -29,7 +29,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Check my cool stuffs! :
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 5px" src="./icons/vscode.png" alt="vscode" width="60" height="60"/></a>
 </p>
 
-## :zap: What I did tinker with but stopped using regularly
+<h1 align="center" style="color:#0c8694;text-shadow: black 0.1em 0.1em 0.2em;">What I did tinker with but stopped using regularly</h1>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
@@ -54,17 +54,12 @@ Did a lot of .Net; now mainly working with react/nodejs. Check my cool stuffs! :
 
 </p>
 
-## :zap: Stats
+<h1 align="center" style="color:#0c8694;text-shadow: black 0.1em 0.1em 0.2em;">GitHub Stats</h1>
 
-<div style="	display: flex;
-	flex-direction: column;
-	flex-wrap: nowrap;
-	justify-content: flex-start;
-	align-items: center;
-	align-content: stretch;">
-  <img src="./coding-habits.svg" style="width:800px;" />
-  <img src="./pull-requests.svg" style="width:800px;" />
-  <img src="./metrics-achievements.svg" style="width:800px;" />
-  <img src="./reactions.svg" style="width:800px;" />
-  <img src="./metrics-commits-calendar.svg" style="width:800px;" />
+<div style="display: flex;flex-direction: column;flex-wrap: nowrap;justify-content: flex-start;align-items: center;align-content: stretch">
+  <img src="./coding-habits.svg" style="width:100%;padding-bottom:25px;" />
+  <img src="./pull-requests.svg" style="width:900px;padding-bottom:25px;" />
+  <img src="./metrics-achievements.svg" style="width:900px;padding-bottom:25px;" />
+  <img src="./reactions.svg" style="width:900px;padding-bottom:25px;" />
+  <img src="./metrics-commits-calendar.svg" style="width:900px;padding-bottom:25px;" />
 </div>
