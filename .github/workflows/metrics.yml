@@ -99,7 +99,6 @@ jobs:
           # pull requests
           user: jpb06
           template: classic
-          base: ""
           config_timezone: Europe/Paris
           plugin_followup: yes
           plugin_followup_sections: repositories
