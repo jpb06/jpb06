@@ -57,6 +57,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Check my cool stuffs! :
 <h1 align="center" style="color:#0c8694;text-shadow: black 0.1em 0.1em 0.2em;">GitHub Stats</h1>
 
 <div style="display: flex;flex-direction: column;flex-wrap: nowrap;justify-content: flex-start;align-items: center;align-content: stretch">
+  <img src="./stats.svg" style="width:100%;margin-bottom:45px;" />
   <img src="./coding-habits.svg" style="width:100%;padding-bottom:25px;" />
   <img src="./pull-requests.svg" style="width:900px;padding-bottom:25px;" />
   <img src="./metrics-achievements.svg" style="width:900px;padding-bottom:25px;" />
