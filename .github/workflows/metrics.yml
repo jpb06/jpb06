@@ -9,12 +9,39 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - name: isometric-commits-calendar
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics-commits-calendar.svg
+          base: ''
+          # Isometric commit calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Display full year instead of half year
+
+      - name: achievements
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics-achievements.svg
+          base: ''
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: C # Display achievements with rank B or higher
+          plugin_achievements_secrets: yes # Display unlocked secrets achievements
+          plugin_achievements_ignored: octonaut # Hide octonaut achievement
+          plugin_achievements_limit: 0 # Display all unlocked achievement matching threshold and secrets params
+          plugin_achievements_display: compact # Use compact display
+
+      - name: most-used-language
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics-most-used-language.svg
+          base: ''
           # Most used languages
           plugin_languages: yes
           plugin_languages_ignored: html, css # List of languages to ignore
