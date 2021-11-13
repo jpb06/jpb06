@@ -36,7 +36,6 @@ jobs:
           plugin_habits_facts: yes # Display facts section
           plugin_habits_charts: yes # Display charts section
           plugin_habits_trim: yes # Trim unused hours on daily chart
-          config_timezone: Europe/Paris # Set timezone
           # reactions
           plugin_reactions: yes
           plugin_reactions_limit: 200 # Compute reactions over last 200 issue comments
@@ -47,6 +46,5 @@ jobs:
           # pull requests
           user: jpb06
           template: classic
-          config_timezone: Europe/Paris
           plugin_followup: yes
           plugin_followup_sections: repositories
