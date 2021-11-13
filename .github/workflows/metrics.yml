@@ -44,7 +44,5 @@ jobs:
           plugin_reactions_details: count, percentage # Display reactions count and percentage
           plugin_reactions_ignored: bot # Ignore "bot" user
           # pull requests
-          user: jpb06
-          template: classic
           plugin_followup: yes
           plugin_followup_sections: repositories
