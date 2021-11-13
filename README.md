@@ -50,8 +50,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 <a href="https://docs.microsoft.com/en-us/aspnet/overview" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="60" height="60"/></a>
 <a href="https://jquery.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="60" height="60"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60"/></a>
-<a href="https://www.putty.org/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg
-" alt="vscode" width="60" height="60"/></a>
+<a href="https://www.putty.org/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" alt="vscode" width="60" height="60"/></a>
 <a href="https://www.debian.org/index.en.html" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="60" height="60"/></a>
 <a href="http://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="vscode" width="60" height="60"/></a>
 <a href="https://www.nginx.com" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/></a>
