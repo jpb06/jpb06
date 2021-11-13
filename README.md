@@ -3,18 +3,22 @@
 Your regular neurotypical fullstack developer. :see_no_evil:
 Leaning towards frontend, actually. Sort of. I also love testing.
 
-Did a lot of .Net; now mainly working with react/nodejs. Check my cool stuffs! :100:
+Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! 🧙
 
 <h1 align="center" style="color:#0c8694;text-shadow: black 0.1em 0.1em 0.2em;">What I mainly work with</h1>
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="60" /></a>
+<a href="https://babeljs.io/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="vscode" width="60" height="60"/></a>
+<a href="https://eslint.org/" target="_blank"><img style="margin: 5px" src="./icons/eslint.svg" alt="vscode" width="60" height="60"/></a>
 <a href="https://fr.reactjs.org/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="60" /></a>
 <a href="https://material-ui.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="material-ui" width="60" height="60"/></a>
+<a href="https://storybook.js.org/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="vstudio" width="60" height="60"/></a>
 <a href="https://nodejs.org" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/></a>
 <a href="https://jestjs.io/" target="_blank"><img style="margin: 5px" src="./icons/jest-icon.svg" alt="jest" width="60" height="60"/></a>
 <a href="https://testing-library.com/" alt="testing library" target="_blank"><img style="margin: 5px" src="./icons/octopus-128x128.png" alt="mongodb" width="60" height="60"/></a>
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 5px" src="./icons/cypress.png" alt="vscode" width="60" height="60"/></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="60" height="60"/></a>
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="60" height="60"/></a>
 <a href="https://expressjs.com/" alt="github" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="60" height="60"/></a>
@@ -27,6 +31,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Check my cool stuffs! :
 <a href="https://dashboard.heroku.com/apps" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="60" height="60"/></a>
 <a href="https://github.com/" alt="github" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="mongodb" width="60" height="60"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 5px" src="./icons/vscode.png" alt="vscode" width="60" height="60"/></a>
+
 </p>
 
 <h1 align="center" style="color:#0c8694;text-shadow: black 0.1em 0.1em 0.2em;">What I did tinker with but stopped using regularly</h1>
@@ -45,12 +50,18 @@ Did a lot of .Net; now mainly working with react/nodejs. Check my cool stuffs! :
 <a href="https://docs.microsoft.com/en-us/aspnet/overview" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="60" height="60"/></a>
 <a href="https://jquery.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="60" height="60"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60"/></a>
+<a href="https://www.putty.org/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg
+" alt="vscode" width="60" height="60"/></a>
 <a href="https://www.debian.org/index.en.html" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="60" height="60"/></a>
+<a href="http://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="vscode" width="60" height="60"/></a>
 <a href="https://www.nginx.com" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 5px" src="./icons/logo-microsoft-sql-server.svg" alt="sql server" width="60" height="60"/></a>
 <a href="https://www.mysql.com/fr/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/></a>
+<a href="https://redis.io/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="vstudio" width="60" height="60"/></a>
 <a href="https://bitbucket.org/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="60" height="60"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="vstudio" width="60" height="60"/></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vstudio" width="60" height="60"/></a>
+<a href="https://www.jetbrains.com/fr-fr/webstorm/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="vstudio" width="60" height="60"/></a>
 
 </p>
 
@@ -58,9 +69,4 @@ Did a lot of .Net; now mainly working with react/nodejs. Check my cool stuffs! :
 
 <div style="display: flex;flex-direction: column;flex-wrap: nowrap;justify-content: flex-start;align-items: center;align-content: stretch">
   <img src="./stats.svg" style="width:100%;margin-bottom:45px;" />
-  <img src="./coding-habits.svg" style="width:100%;padding-bottom:25px;" />
-  <img src="./pull-requests.svg" style="width:900px;padding-bottom:25px;" />
-  <img src="./metrics-achievements.svg" style="width:900px;padding-bottom:25px;" />
-  <img src="./reactions.svg" style="width:900px;padding-bottom:25px;" />
-  <img src="./metrics-commits-calendar.svg" style="width:900px;padding-bottom:25px;" />
 </div>
