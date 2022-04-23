@@ -14,6 +14,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 <a href="https://babeljs.io/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="60" height="60"/></a>
 <a href="https://eslint.org/" target="_blank"><img style="margin: 5px" src="./icons/eslint.svg" alt="eslint" width="60" height="60"/></a>
 <a href="https://fr.reactjs.org/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="60" /></a>
+<a href="https://react-query.tanstack.com/" target="_blank"><img style="margin: 5px" src="./icons/react-query.svg" alt="react-query" height="60" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="60" height="60"/></a>
 <a href="https://material-ui.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="material-ui" width="60" height="60"/></a>
 <a href="https://storybook.js.org/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="60" height="60"/></a>
