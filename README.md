@@ -11,6 +11,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="60" /></a>
 <a href="https://www.markdownguide.org/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" height="60" /></a>
+<a href="https://swc.rs" target="_blank"><img style="margin: 5px" src="./icons/swc.svg" alt="swc" height="60"/></a>
 <a href="https://babeljs.io/" target="_blank"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="60" height="60"/></a>
 <a href="https://eslint.org/" target="_blank"><img style="margin: 5px" src="./icons/eslint.svg" alt="eslint" width="60" height="60"/></a>
 <a href="https://fr.reactjs.org/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="60" /></a>
