@@ -37,7 +37,6 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 <a href="https://typegraphql.com" target="_blank"><img style="margin: 5px" src="./icons/typegraphql.png" alt="Typegraphql" height="60" /></a>
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="60" height="60"/></a>
 <a href="https://www.apollographql.com/docs/" target="_blank"><img style="margin: 5px" src="./icons/apollo.png" alt="apollo" width="60" height="60"/></a>
-<a href="https://rxjs.dev/guide/overview" target="_blank"><img style="margin: 5px" src="./icons/rxjs.png" alt="rxjs" height="60" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="60" height="60"/></a>
 <a href="https://pnpm.io" target="_blank"><img style="margin: 5px" src="./icons/pnpm.svg" alt="pnpm" width="60" height="60"/></a>
 <a href="https://yarnpkg.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="60" height="60"/></a>
@@ -59,6 +58,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
 <a href="https://angularjs.org/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/></a>
+<a href="https://rxjs.dev/guide/overview" target="_blank"><img style="margin: 5px" src="./icons/rxjs.png" alt="rxjs" height="60" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/></a>
 <a href="https://sequelize.org/master/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="60" height="60"/></a>
 <a href="https://typeorm.io" target="_blank"><img style="margin: 5px" src="./icons/typeorm.png" alt="typeorm" width="60" height="60"/></a>
