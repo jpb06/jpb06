@@ -7,7 +7,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 
 <h1 align="center" style="color:#0c8694;text-shadow: black 0.1em 0.1em 0.2em;">What I mainly work with</h1>
 
-<p align="left">
+<p align="center">
 <a href="https://git-scm.com/" target="_blank"><img src="./icons/Git.svg" alt="git" width="60" height="60"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="./icons/TypeScript.svg" alt="TypeScript" height="60" /></a>
 <a href="https://www.markdownguide.org/" target="_blank"><img src="./icons/Markdown-Dark.svg" alt="markdown" height="60" /></a>
@@ -52,12 +52,11 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 <a href="https://github.com/" target="_blank"><img src="./icons/Github-Dark.svg" alt="github" width="60" height="60"/></a>
 <a href="https://github.com/features/actions" target="_blank"><img src="./icons/GithubActions-Dark.svg" alt="github actions" width="60" height="60"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="./icons/VSCode-Dark.svg" alt="vscode" width="60" height="60"/></a>
-
 </p>
 
 <h1 align="center" style="color:#0c8694;text-shadow: black 0.1em 0.1em 0.2em;">What I did tinker with but stopped using regularly</h1>
 
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./icons/JavaScript.svg" alt="javascript" width="60" height="60"/></a>
 <a href="https://angularjs.org/" target="_blank"><img src="./icons/Angular-Dark.svg" alt="angular" width="60" height="60"/></a>
 <a href="https://rxjs.dev/guide/overview" target="_blank"><img src="./icons/Rxjs-Dark.svg" alt="rxjs" height="60" /></a>
