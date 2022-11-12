@@ -18,6 +18,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 <a href="https://fr.reactjs.org/" target="_blank"><img src="./icons/React-Dark.svg" alt="React" height="60" /></a>
 <a href="https://www.passportjs.org/docs/" target="_blank"><img src="./icons/Passport-Dark.svg" alt="passportjs" height="60" /></a>
 <a href="https://react-hook-form.com/get-started" target="_blank"><img src="./icons/ReactHookForm-Dark.svg" alt="React Hook Form" height="60" /></a>
+<a href="https://github.com/colinhacks/zod" target="_blank"><img src="./icons/Zod-Dark.svg" alt="zod" width="60" height="60"/></a>
 <a href="https://www.i18next.com/overview/getting-started" target="_blank"><img src="./icons/I18next-Dark.svg" alt="i18next" height="60" /></a>
 <a href="https://jotai.org" target="_blank"><img src="./icons/Jotai-Dark.svg" alt="jotai" height="60"/></a>
 <a href="https://graphql.org" target="_blank"><img src="./icons/GraphQL-Dark.svg" alt="Graphql" height="60" /></a>
