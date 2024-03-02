@@ -44,9 +44,11 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 <a href="https://fastify.dev/docs/latest/" target="_blank"><img src="./icons/Fastify-Dark.svg" alt="fastify" width="60" height="60"/></a>
 <a href="https://remix.run/" target="_blank"><img src="./icons/Remix-Dark.svg" alt="remix" width="60" height="60"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="./icons/Docker.svg" alt="docker" width="60" height="60"/></a>
+<a href="https://bun.sh/docs" target="_blank"><img src="./icons/Bun-Dark.svg" alt="bun" width="60" height="60"/></a>
 <a href="https://pnpm.io" target="_blank"><img src="./icons/Pnpm-Dark.svg" alt="pnpm" width="60" height="60"/></a>
 <a href="https://yarnpkg.com/" target="_blank"><img src="./icons/Yarn-Dark.svg" alt="yarn" width="60" height="60"/></a>
 <a href="https://www.npmjs.com/~jpb06" target="_blank"><img src="./icons/Npm-Dark.svg" alt="npm" width="60" height="60"/></a>
+<a href="https://trpc.io/docs" target="_blank"><img src="./icons/Trpc.svg" alt="trpc" width="60" height="60"/></a>
 <a href="https://www.prisma.io/" target="_blank"><img src="./icons/Prisma.svg" alt="prisma" width="60" height="60"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="./icons/PostgreSQL-Dark.svg" alt="postgres" width="60" height="60"/></a>
 <a href="https://aws.amazon.com" target="_blank"><img src="./icons/AWS-Dark.svg" alt="aws" width="60" height="60"/></a>
@@ -55,6 +57,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 <a href="https://vercel.com/home" target="_blank"><img src="./icons/Vercel-Dark.svg" alt="vercel" width="60" height="60"/></a>
 <a href="https://docs.temporal.io/" target="_blank"><img src="./icons/Temporal-Dark.svg" alt="temporal" width="60" height="60"/></a>
 <a href="https://sonarcloud.io/" target="_blank"><img src="./icons/Sonarcloud-Dark.svg" alt="sonarcloud" width="60" height="60"/></a>
+<a href="https://docs.sentry.io/" target="_blank"><img src="./icons/Sentry-Dark.svg" alt="sentry" width="60" height="60"/></a>
 <a href="https://github.com/" target="_blank"><img src="./icons/Github-Dark.svg" alt="github" width="60" height="60"/></a>
 <a href="https://github.com/features/actions" target="_blank"><img src="./icons/GithubActions-Dark.svg" alt="github actions" width="60" height="60"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="./icons/VSCode-Dark.svg" alt="vscode" width="60" height="60"/></a>
