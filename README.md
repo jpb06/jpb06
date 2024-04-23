@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" />
+<img src="./assets/banner1.jpg" />
 
 # Hello hello <img src="./assets/Hi.gif" width="30" />
 
@@ -43,6 +43,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ðŸ§
 <a href="https://jwt.io" target="_blank"><img src="./icons/Jwt-Dark.svg" alt="jwt" height="60"/></a>
 <a href="https://fastify.dev/docs/latest/" target="_blank"><img src="./icons/Fastify-Dark.svg" alt="fastify" width="60" height="60"/></a>
 <a href="https://remix.run/" target="_blank"><img src="./icons/Remix-Dark.svg" alt="remix" width="60" height="60"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="./icons/NextJS-Dark.svg" alt="nextjs" width="60" height="60"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="./icons/Docker.svg" alt="docker" width="60" height="60"/></a>
 <a href="https://bun.sh/docs" target="_blank"><img src="./icons/Bun-Dark.svg" alt="bun" width="60" height="60"/></a>
 <a href="https://pnpm.io" target="_blank"><img src="./icons/Pnpm-Dark.svg" alt="pnpm" width="60" height="60"/></a>
@@ -69,7 +70,6 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ðŸ§
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./icons/JavaScript.svg" alt="javascript" width="60" height="60"/></a>
 <a href="https://angularjs.org/" target="_blank"><img src="./icons/Angular-Dark.svg" alt="angular" width="60" height="60"/></a>
 <a href="https://nestjs.com/" target="_blank"><img src="./icons/NestJS-Dark.svg" alt="nestjs" width="60" height="60"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="./icons/NextJS-Dark.svg" alt="nextjs" width="60" height="60"/></a>
 <a href="https://material-ui.com/" target="_blank"><img src="./icons/MaterialUI-Dark.svg" alt="material-ui" width="60" height="60"/></a>
 <a href="https://emotion.sh/docs/introduction" target="_blank"><img src="./icons/Emotion-Dark.svg" alt="emotion" width="60" height="60"/></a>
 <a href="https://swr.vercel.app/" target="_blank"><img src="./icons/Swr-Dark.svg" alt="swr" width="60" height="60" /></a>
