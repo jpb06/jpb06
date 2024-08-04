@@ -18,6 +18,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 <a href="https://swc.rs" target="_blank"><img src="./icons/Swc-Dark.svg" alt="swc" height="60"/></a>
 <a href="https://esbuild.github.io/" target="_blank"><img src="./icons/Esbuild-Dark.svg" alt="esbuild" width="60" height="60"/></a>
 <a href="https://babeljs.io/" target="_blank"><img src="./icons/Babel-Dark.svg" alt="babel" width="60" height="60"/></a>
+<a href="https://biomejs.dev/guides/getting-started/" target="_blank"><img src="./icons/Biome-Dark.svg" alt="biome" width="60" height="60"/></a>
 <a href="https://eslint.org/" target="_blank"><img src="./icons/Eslint-Dark.svg" alt="eslint" width="60" height="60"/></a>
 <a href="https://www.effect.website/docs/quickstart" target="_blank"><img src="./icons/Effect-Dark.svg" alt="effect" width="60" height="60"/></a>
 <a href="https://fr.reactjs.org/" target="_blank"><img src="./icons/React-Dark.svg" alt="React" height="60" /></a>
@@ -27,6 +28,7 @@ Did a lot of .Net; now mainly working with react/nodejs. Hail the Omnissiah! ğŸ§
 <a href="https://www.i18next.com/overview/getting-started" target="_blank"><img src="./icons/I18next-Dark.svg" alt="i18next" height="60" /></a>
 <a href="https://jotai.org" target="_blank"><img src="./icons/Jotai-Dark.svg" alt="jotai" height="60"/></a>
 <a href="https://react-query.tanstack.com/" target="_blank"><img src="./icons/ReactQuery-Dark.svg" alt="react-query" height="60" /></a>
+<a href="https://panda-css.com/docs/overview/getting-started" target="_blank"><img src="./icons/PandaCss.svg" alt="pandaCSS" width="60" height="60"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="./icons/TailwindCSS-Dark.svg" alt="tailwind" width="60" height="60"/></a>
 <a href="https://daisyui.com/docs/install/" target="_blank"><img src="./icons/DaisyUi-Dark.svg" alt="daisyui" width="60" height="60"/></a>
 <a href="https://www.framer.com/motion/introduction/" target="_blank"><img src="./icons/FramerMotion-Dark.svg" alt="framer motion" height="60"/></a>
