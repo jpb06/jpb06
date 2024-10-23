@@ -44,3 +44,7 @@ jobs:
           # Isometric commit calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
+          # Starred topics 
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
